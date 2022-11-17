@@ -1,0 +1,2 @@
+print('Simple Linear Regression')
+print('Multiple Linear Regression')
